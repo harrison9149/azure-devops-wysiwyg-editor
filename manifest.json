@@ -8,7 +8,6 @@
         "persistent": false
       },
         "page_action": {
-            "default_popup": "popup.html",
             "default_icon": {
             "16": "images/markdown16.png",
             "32": "images/markdown32.png",
